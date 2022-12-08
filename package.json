@@ -1,0 +1,17 @@
+{
+  "name": "data-scrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "siddhant",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "json2csv": "^5.0.7",
+    "nodemon": "^2.0.20",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^19.4.0"
+  }
+}
